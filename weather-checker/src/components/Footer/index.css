@@ -1,0 +1,21 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 60px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: url("../../Video/BackgroundVideo.gif");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}

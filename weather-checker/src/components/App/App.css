@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  /* background: url("https://ichef.bbci.co.uk/news/976/mcs/media/images/75610000/jpg/_75610145_michikosmithpoppysw.worlshire.jpg")
+    center center no-repeat; */
+  background-size: cover;
+}
+.searchBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 20vh;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
