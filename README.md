@@ -1,3 +1,7 @@
+**This was the tenth hackathon we did at School of Code on 20230526. See the instructions we were given below.**
+
+
+
 # React/TypeScript Hackathon
 
 ## Challenge
